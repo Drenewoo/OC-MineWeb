@@ -1,0 +1,1 @@
+setuping program: find all "/mnt/831/" and replace it with path where you want to store data
